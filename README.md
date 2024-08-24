@@ -66,8 +66,6 @@ This guide will walk you through customizing your Visual Studio Code (VS Code) t
       }
   }
 
-# Customizing VS Code with Custom CSS
-
 ## 2. Update `settings.json`
 
 1. Open the Command Palette by going to `View > Command Palette...` or pressing `Ctrl + Shift + P`.
