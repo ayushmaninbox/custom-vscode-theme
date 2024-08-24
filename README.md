@@ -45,7 +45,7 @@ This guide will walk you through customizing your Visual Studio Code (VS Code) t
       width: 40px;
       height: 40px;
       border-radius: 50%;
-      background-image: url(/your/avatar/icon/.png);
+      background-image: url(/your/avatar/icon/path.png);
       background-size: 100%;
   }
 
