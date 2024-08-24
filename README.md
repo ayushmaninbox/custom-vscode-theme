@@ -2,6 +2,11 @@
 
 This guide will walk you through customizing your Visual Studio Code (VS Code) theme using a custom CSS file. By following these steps, you'll be able to apply custom styles to your VS Code interface.
 
+<video width="560" height="315" controls>
+  <source src="./vscode-theme-change.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## Prerequisites
 
 1. **Visual Studio Code** installed on your machine.
@@ -75,7 +80,7 @@ This guide will walk you through customizing your Visual Studio Code (VS Code) t
 
     ```json
     "vscode_custom_css.imports": [
-      "file:///***your file path***"
+      "file:///***your custom.css file path***"
     ]
     ```
 
