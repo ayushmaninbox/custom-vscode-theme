@@ -2,7 +2,7 @@
 
 This guide will walk you through customizing your Visual Studio Code (VS Code) theme using a custom CSS file. By following these steps, you'll be able to apply custom styles to your VS Code interface.
 
-https://github.com/user-attachments/assets/cc83db9a-ca1c-46b3-baf4-f26d51229a22
+![vscode-theme-change](https://github.com/user-attachments/assets/0c35085d-6b39-4495-a40d-9f3eb32ea520)
 
 
 ## Prerequisites
